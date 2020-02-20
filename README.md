@@ -28,6 +28,7 @@
 * requests
 * Beautifulsoup
 * Word2vec
+* jieba
 * tenserflow
 
 ## Project Description
